@@ -9,6 +9,7 @@
 
 ## 🚀 Meu Objetivo
 
+- Me tornar um Desenvolvedor FullStack
 - Estou aberto a novas conexões profissionais e oportunidades de compartilhar conhecimento na área de desenvolvimento.
 - Pronto para contribuir com soluções inovadoras e entregar resultados excepcionais.
 
